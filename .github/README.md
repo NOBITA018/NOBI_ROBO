@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/fbd55ee956abef2a74e15.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+𝐑𝐀𝐉𝐍𝐈𝐒𝐇+𝐗𝐃+🖤+🥀"></b></h3>
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/8b5cc80d310ed26de8a9b.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+NOBITA+𝐗𝐃+🖤+🥀"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=🦋+𝗔𝗩𝗔+𝗧𝗛𝗘+𝗥𝗢𝗕𝗢𝗧🖤+🥀"></b></h1>
+<h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=🦋+SIZU+𝗧𝗛𝗘+𝗥𝗢𝗕𝗢𝗧🖤+🥀"></b></h1>
 
-<p align="center"><a href="https://t.me/Ava_The_Robot"><img src="https://telegra.ph/file/6a58ec930e5c45d78464d.jpg" width="600"></a></p>
+<p align="center"><a href="https://t.me/Ava_The_Robot"><img src="https://telegra.ph/file/15235b2de8ce4b278f1c3.jpg" width="600"></a></p>
 
 
 
@@ -126,8 +126,8 @@ OWNER_ID =  sᴛᴀʀᴛ @Ava_Robot & ᴛʏᴘᴇ /id
                                  𝗠𝗘𝗘𝗧 𝗠𝗘 𝗛𝗘𝗥𝗘
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rajnish_mishra____) 
-[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/JARVIS_V_SUPPORT) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/BTW_NOBITA_0) 
+[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/NOBITA_PROFESY) 
 [![Gmail](https://img.shields.io/badge/Gmail-%23F05033.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hackerdoraemon2@gmail.com) 
 [![YouTube](https://img.shields.io/badge/Youtube-%23DD0031.svg?logo=Youtube&logoColor=white)](https://youtube.com/@rajnisha3) 
 

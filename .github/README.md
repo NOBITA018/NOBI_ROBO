@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3><img  style="align-item" :"center" src="https://telegra.ph/file/8b5cc80d310ed26de8a9b.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+NOBITA+𝐗𝐃+🖤+🥀"></b></h3>
+<h3><img  style="align-item" :"center" src="https://telegra.ph/file/0dafb7362767c7db00ba2.jpg" width="80px" height="70%"><img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&width=620&lines=✨+🦋+𝐇𝐄𝐘+𝐓𝐇𝐄𝐑𝐄+𝐓𝐇𝐈𝐒+𝐈𝐒+𝐕𝐈𝐏+NOBITA+𝐗𝐃+🖤+🥀"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align ="center"><img src="https://readme-typing-svg.herokuapp.com?color=F778A1&width=350&lines=🦋+SIZU+𝗧𝗛𝗘+𝗥𝗢𝗕𝗢𝗧🖤+🥀"></b></h1>
 
-<p align="center"><a href="https://t.me/Ava_The_Robot"><img src="https://telegra.ph/file/15235b2de8ce4b278f1c3.jpg" width="600"></a></p>
+<p align="center"><a href="https://t.me/Ava_The_Robot"><img src="https://telegra.ph/file/edb8267efd0721c8e573c.jpg" width="600"></a></p>
 
 
 

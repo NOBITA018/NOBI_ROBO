@@ -125,10 +125,10 @@ OWNER_ID =  sᴛᴀʀᴛ @Ava_Robot & ᴛʏᴘᴇ /id
                                  𝗠𝗘𝗘𝗧 𝗠𝗘 𝗛𝗘𝗥𝗘
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/BTW_NOBITA_0) 
-[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/NOBITA_PROFESY) 
-[![Gmail](https://img.shields.io/badge/Gmail-%23F05033.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=hackerdoraemon2@gmail.com) 
-[![YouTube](https://img.shields.io/badge/Youtube-%23DD0031.svg?logo=Youtube&logoColor=white)](https://youtube.com/@rajnisha3) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/KAIRVXD) 
+[![Telegram](https://img.shields.io/badge/Telegram-%232671E5.svg?logo=Telegram&logoColor=white)](https://t.me/NOBITA_WORLD) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23F05033.svg?logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=S43676507@gmail.com) 
+[![YouTube](https://img.shields.io/badge/Youtube-%23DD0031.svg?logo=Youtube&logoColor=white)](https://youtube.com/@NOBITAXD_0) 
 
                                                          
 <h3 align="center">
@@ -138,7 +138,7 @@ OWNER_ID =  sᴛᴀʀᴛ @Ava_Robot & ᴛʏᴘᴇ /id
 
 ➥ [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂] × <a href="https://github.com/Abishnoi69" alt="Abishnoi69"> <img src="https://img.shields.io/badge/KINGABISHNOI-90302f?logo=github" /></a>  
 
-➥ [𝐀ɴᴏɴʏᴍᴏᴜs] × <a href="http://github.com/AnonymousX1025/FallenRobot" alt="AnonymousX1025"> <img src="https://img.shields.io/badge/Anonymous-90302f?logo=github" /></a>  
+➥ [𝐀ɴᴏɴʏᴍᴏᴜs] × <a href="http://github.com/AnonymousX1025/FallenRobot" alt="FUCKING_KAIRV"> <img src="https://img.shields.io/badge/Anonymous-90302f?logo=github" /></a>  
 
 
 ➥ [𝐏ᴀᴜʟsᴏɴᴏғʟᴀʀs] × <a href="https://github.com/PaulSonOfLars/tgbot" alt="PaulSonOfLars"> <img src="https://img.shields.io/badge/PaulSonOfLars-90302f?logo=github" /></a>  
